@@ -1,0 +1,17 @@
+{
+  "name": "nodefrp",
+  "version": "1.0.0",
+  "description": "A node backend api written with functional reactive patterns",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "functional",
+    "programming",
+    "node",
+    "api"
+  ],
+  "author": "vinny",
+  "license": "ISC"
+}
